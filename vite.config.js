@@ -7,5 +7,5 @@ export default defineConfig({
   alias: {
     '@components': './src/components',
   },
-  base: '/portofolio',
+  base: '/portfolio',
 })
